@@ -1,6 +1,6 @@
 <template>
   <v-app id="keep">
-    <TopBar />
+    <!-- <TopBar /> -->
     <SideBar />
     <v-content>
       <slot />

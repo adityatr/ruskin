@@ -1,3 +1,3 @@
-import TopBar from './TopBar.vue'
+import TextPad from './TextPad.vue'
 
-export { TopBar }
+export { TextPad }

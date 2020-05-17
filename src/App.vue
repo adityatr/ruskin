@@ -6,11 +6,11 @@
   </div>
 </template>
 <script lang="ts">
-import Dashboard from '@/Layout/Dashboard.vue';
+import Dashboard from '@/Layout/Dashboard.vue'
 export default {
   name: 'App',
   components: {
     Dashboard,
   },
-};
+}
 </script>
