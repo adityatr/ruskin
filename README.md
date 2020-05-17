@@ -1,4 +1,4 @@
-# yana
+# Landour
 
 ## Project setup
 
