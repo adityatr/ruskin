@@ -1,4 +1,4 @@
-# Landour
+# Ruskin notes
 
 ## Project setup
 
